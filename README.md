@@ -27,6 +27,7 @@ The aim of the project is to use machine learning to extract claims or propositi
   Python file : Stage 1 Deliverable : Notebook
 
 **Analyze :**
+
 1- In this stage we will be covering the following processes:
 
   ETL (Extract, Transform, Load) as/if required.
@@ -42,6 +43,7 @@ The aim of the project is to use machine learning to extract claims or propositi
   Python File : Stage 2 Deliverable : Notebook
 
 **Construct :**
+
 1- This stage includes the following processes :
 
   Deciding what insights to pursue.
