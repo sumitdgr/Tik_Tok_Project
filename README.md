@@ -1,6 +1,7 @@
 **TikTokClaimDetective: Claim or Opinion using ML**
 
 The aim of the project is to use machine learning to extract claims or propositions within TikTok videos and comments and classify each data point as a claim or opinion. To approach this task i will be using the PACE frame-work that is an accronym for a 4 stage approach Plan, Analyze, Construct and Execute.
+
 **Plan :**
 
 1- Goal: To determine whether a video contains a claim or whether it offers an opinion.
